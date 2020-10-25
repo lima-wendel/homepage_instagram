@@ -11,7 +11,7 @@
 body {
     width: 100%;
     min-height: 100vh;
-    background-color: rgb(243, 243, 243);
+    background-color: rgb(251, 251, 251);
     margin: 0;
     padding: 0;
     display: flex;
@@ -125,11 +125,11 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-color: url('./img/appstore_logo.png');
+    background-image: url('./img/appstore_logo.png');
 }
 
 .app-download:nth-child(2) {
-    background-color: url('./img/playstore_logo.png');
+    background-image: url('./img/playstore_logo.png');
 }
 
 
